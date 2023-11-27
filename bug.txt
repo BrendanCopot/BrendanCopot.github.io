@@ -1,3 +1,0 @@
-Fix jellyfish location
-Fix tut 3 UI
-Hitbox doesnt move with jellyfish
