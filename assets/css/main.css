@@ -21,7 +21,7 @@
 :root {
   --color-default: #fafafa;
   --color-primary: #27a776;
-  --color-secondary: #161718;
+  --color-secondary: #002344;
 }
 
 /* Smooth scroll behavior */
@@ -35,7 +35,7 @@
 body {
   font-family: var(--font-default);
   color: var(--color-default);
-  background-color: #000;
+  background-color: #002344;
 }
 
 a {
@@ -286,7 +286,7 @@ h6 {
   transition: all 0.5s;
   z-index: 997;
   padding: 30px 0;
-  background-color: #000;
+  background-color: #002344;
 }
 
 .header .logo {
@@ -1176,7 +1176,7 @@ h6 {
 .hero {
   width: 100%;
   min-height: 30vh;
-  background: #000000;
+  background: #002344;
   background-size: cover;
   position: relative;
   padding: 140px 0 60px 0;
